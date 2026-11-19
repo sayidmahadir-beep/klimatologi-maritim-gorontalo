@@ -61,7 +61,7 @@ LINKS = [
     ("🌐 Website Resmi BMKG", "https://www.bmkg.go.id"),
     ("🚢 Info Maritim BMKG", "https://maritim.bmkg.go.id"),
     ("🗺️ InaWIS / OFS BMKG", "https://peta-maritim.bmkg.go.id/ofs/"),
-    ("🗺️ Maritim Tools BMKG", "https://https://maritim.bmkg.go.id/tools/"),
+    ("🛠️ Maritim Tools BMKG", "https://maritim.bmkg.go.id/tools/"),
     ("📊 Klimatologi Pusmar", "https://api-maritim.bmkg.go.id/met/analisis/")
 ]
 
